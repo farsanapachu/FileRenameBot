@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/fork">
+  <a href="https://github.com/farsanapachu/FileRenameBot">
     <img src="https://img.shields.io/github/forks/No-OnE-Kn0wS-Me/FileRenameBot?label=Fork&style=social">
 
   </a>  
